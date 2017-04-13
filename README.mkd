@@ -2,3 +2,4 @@
 
 # Available packages
 - `bs4`
+- `aiohttp`
